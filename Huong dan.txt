@@ -1,0 +1,13 @@
+- Cai dat python.
+- Chay cac lenh sau trong cmd o quyen admin.
+python -m pip install --upgrade pip
+
+pip install PyQt5
+
+pip install pywin32
+
+pip install WMI
+
+- Khoi dong lai may.
+- Bien dich file Tool4LaTeX.py voi python de chay chuong trinh.
+- Co the cai QT5 python de lam nhieu hon.
