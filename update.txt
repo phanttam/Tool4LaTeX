@@ -1,0 +1,9 @@
+T4L-PRO version 1.0.3.7:
+  - Fix lỗi ID chuẩn.
+  - Thêm phần tự động kiểm tra bản cập nhật.
+T4L-PRO version 1.0.3.1:
+  - Thêm Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh)
+T4L-PRO version 1.0.2.1:
+  - Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word)
+T4L-PRO version 1.0.2.1:
+  - Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX)
