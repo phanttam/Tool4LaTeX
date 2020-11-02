@@ -1,0 +1,7 @@
+1.0.3.09
+1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
+1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
+1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
+1.0.3.07: Fix lỗi ID chuẩn.
+1.0.3.08: Thêm phần tự động kiểm tra bản cập nhật.
+1.0.3.09: Fix LaTeX2Image (Option: add main file, edit name image).
